@@ -1,0 +1,6 @@
+{
+    "prompt": "A conceptual diptych representing Simpson's Paradox. Left panel: Close-up of five separate clear glass vials, in each one a blue liquid is visibly rising higher than a previous level. Right panel: The same five vials seen together from a distant, skewed perspective through a massive, thick glass lens that refracts them so the collective fluid level appears to be falling significantly compared to a shadowy baseline. The style is eerie, cinematic realism with dramatic lighting. The contrast between the local observation and the global aggregate creates a sense of mathematical uncanniness. No text, no charts, no numbers. High-resolution textures, 1024px short side.",
+    "model": "DALL·E 3 (via ChatGPT PLUS)",
+    "paradox": "Simpson's Paradox",
+    "visual_logic": "Viewer sees vials with rising liquid (local trend) contrasted in a refracting lens where the aggregate liquid appears to fall (global trend). This structural contradiction embodies the paradox without using charts or literal numbers."
+}
